@@ -4,6 +4,6 @@
 - Currently Pursuing a Master M2 in Data Science for Network Intelligence at Telecom SudParis
 - 🛠️ Always learning and exploring IoT, Digital Twins, and Network Intelligence.
 - 🤝 I’m looking to collaborate with professionals in Data Science, ML, and innovative tech fields.
-- 📫 Reach me at https://sohail.logiclensai.com/
+- 📫 Reach me at (https://callsohail.github.io/sohailcv/)
 
 
